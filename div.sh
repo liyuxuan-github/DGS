@@ -1,0 +1,5 @@
+python feature_dynamic_gaussian_shading.py  --fpr 0.000001   --channel_copy 1  --hw_copy 8   --num 1000  --reference_model ViT-g-14  --reference_model_pretrain laion2b_s12b_b42k  --filename dgs_0 --output_path ./dgs_0/ --fixed_idx 0
+python feature_dynamic_gaussian_shading.py  --fpr 0.000001   --channel_copy 1  --hw_copy 8   --num 1000  --reference_model ViT-g-14  --reference_model_pretrain laion2b_s12b_b42k  --filename dgs_1 --output_path ./dgs_1/ --fixed_idx 1
+python feature_dynamic_gaussian_shading.py  --fpr 0.000001   --channel_copy 1  --hw_copy 8   --num 1000  --reference_model ViT-g-14  --reference_model_pretrain laion2b_s12b_b42k  --filename dgs_2 --output_path ./dgs_2/ --fixed_idx 2
+python feature_dynamic_gaussian_shading.py  --fpr 0.000001   --channel_copy 1  --hw_copy 8   --num 1000  --reference_model ViT-g-14  --reference_model_pretrain laion2b_s12b_b42k  --filename dgs_3 --output_path ./dgs_3/ --fixed_idx 3
+python feature_dynamic_gaussian_shading.py  --fpr 0.000001   --channel_copy 1  --hw_copy 8   --num 1000  --reference_model ViT-g-14  --reference_model_pretrain laion2b_s12b_b42k  --filename dgs_4 --output_path ./dgs_4/ --fixed_idx 4
