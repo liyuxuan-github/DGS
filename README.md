@@ -103,8 +103,8 @@ Our project is implemented base on the following projects. We really appreciate 
 If our work has been helpful to you, we would greatly appreciate a citation.
 
 ```markdown
-**Yuxuan Li and Hao Tang.**  
-*DGS: Robust and Diverse Watermarks for Diffusion Models.*  
+Yuxuan Li and Hao Tang.
+DGS: Robust and Diverse Watermarks for Diffusion Models.  
 ACCV 2026 (accepted; proceedings forthcoming).
 
 The official BibTeX entry will be added once the proceedings are available.
