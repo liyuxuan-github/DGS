@@ -1,3 +1,16 @@
+# DGS: Robust and Diverse Watermarks for Diffusion Models
+
+```
+**Accepted at [ACCV 2026](https://accv2026.org/) (18th Asian Conference on Computer Vision)**
+
+**Paper:** Coming soon 
+```
+
+Dynamic Gaussian Shading (DGS) is a training-free watermarking method for diffusion models that addresses generation diversity under a fixed prompt and user watermark.
+
+![embed](fig\embed.png)
+
+![extract](fig\extract.png)
 
 ## Getting Started
 
@@ -79,4 +92,22 @@ Then, to get the EFD, you can run,
 ```bash
 python div.py
 python lp.py
+```
+
+## Acknowledgement
+
+Our project is implemented base on the following projects. We really appreciate their excellent open-source works!
+
+* [Gaussian Shading]([https://github.com/bsmhmmlf/Gaussian-Shading])
+
+## Citation
+
+If our work has been helpful to you, we would greatly appreciate a citation.
+
+```
+**Yuxuan Li and Hao Tang.**  
+*DGS: Robust and Diverse Watermarks for Diffusion Models.*  
+ACCV 2026 (accepted; proceedings forthcoming).
+
+The official BibTeX entry will be added once the proceedings are available.
 ```
