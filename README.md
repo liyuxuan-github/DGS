@@ -6,9 +6,9 @@
 
 Dynamic Gaussian Shading (DGS) is a training-free watermarking method for diffusion models that addresses generation diversity under a fixed prompt and user watermark.
 
-![embed](fig\embed.png)
+![embed](./fig/embed.png)
 
-![extract](fig\extract.png)
+![extract](./fig/extract.png)
 
 ## Getting Started
 
